@@ -1,3 +1,4 @@
 # learnGitGithub
 
-Here we will do some hands on practice of how we contribute to opensource in real 
+Here we will do some hands on practice of how we contribute to opensource in real
+This is commit 1  
